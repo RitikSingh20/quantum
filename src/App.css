@@ -1,0 +1,18 @@
+.box:hover {
+  border-color: #00bfff;
+}
+
+.linkText{ color:  black; 
+}
+
+.linkText:hover{
+  color:#00bfff;
+}
+
+.itbg{
+  background-image: url("./components/images/it.webp");
+}
+
+.homedivbg{
+  background: #DDE8FF
+}
